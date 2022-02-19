@@ -18,9 +18,11 @@ This project is a manifestation of the interactive results portal.
 
 <h1> TECHNOLOGIES USED </h1>
 
-FRONT END                       : PHP with bootstrap, css, html
-BACK END                          : MYSQL,JS
-TOOLS                                 :XAMPP(cross-platform ,apache, MYSQL,PHP,PERL)
+FRONT END                       : PHP with bootstrap, css, html.
+
+BACK END                          : MYSQL,JS.
+
+TOOLS                                 :XAMPP(cross-platform ,apache, MYSQL,PHP,PERL).
 
 <h1> ADMIN MODULE </h1>
 -Create  and  manage  the subjects , classes  and  can  add the students and  their results of the students.
@@ -43,3 +45,10 @@ TOOLS                                 :XAMPP(cross-platform ,apache, MYSQL,PHP,P
 -student can download the results.
 
 -Student can print his result as well.
+
+<h1> Execution Images </h1>
+
+![Screenshot (7)](https://user-images.githubusercontent.com/92093823/154798628-7d11f5d5-09e0-45c0-983b-3cfebc26f7d3.png)
+
+
+
